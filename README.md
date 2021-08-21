@@ -1,0 +1,2 @@
+# Azure
+General Azure scripts
